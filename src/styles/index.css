@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container{
+    display: inline-block;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    height: 100px;
+}
+
+.container div{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+}
